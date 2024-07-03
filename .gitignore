@@ -1,0 +1,7 @@
+# Ignore environment variables file
+project1.py
+
+# Ignore environment variable configuration files or directories
+
+.env
+
